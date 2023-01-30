@@ -1,0 +1,20 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://127.0.0.1" />
+        <option name="certificatesPath" />
+        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="784debca-ca9a-4c61-b73a-35a1a974d1e1" />
+        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="G:\bake" />
+              <option name="virtualMachinePath" value="/home/ubuntu" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>

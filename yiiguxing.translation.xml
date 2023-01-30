@@ -1,0 +1,81 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="bloc spider project" />
+      <item value="bloc extractor project details" />
+      <item value="bloc extractor credit company score" />
+      <item value="bloc extractor credit company" />
+      <item value="bloc cleaning registered practitioner" />
+      <item value="bloc cleaning not good behavior" />
+      <item value="bloc cleaning enterprise otherscore" />
+      <item value="bloc cleaning company qual" />
+      <item value="bloc cleaning company person" />
+      <item value="bloc cleaning company performance" />
+      <item value="bloc cleaning company credit" />
+      <item value="bloc cleaning candidate" />
+      <item value="ORDER TYPE ASC" />
+      <item value="exclude Pointcut Web" />
+      <item value="normal Pointcut Web" />
+      <item value="When compiling without debug info, or when interpreting pointcuts at runtime, the names of any arguments used in the pointcut are not available. Under these circumstances only, it is necessary to provide the arg names in the annotation - these MUST duplicate the names used in the annotated method. Format is a simple comma-separated list.&#10;返回值:&#10;argNames the argument names (should match those in the annotated method)" />
+      <item value="bloc Cleaning Company Awards" />
+      <item value="Relationship" />
+      <item value="register time" />
+      <item value="proceed" />
+      <item value="cue Association" />
+      <item value="chain" />
+      <item value="Accessors" />
+      <item value="Json Ignore Properties" />
+      <item value="Equals And Hash Code" />
+      <item value="bloc Clue" />
+      <item value="proj" />
+      <item value="company" />
+      <item value="person" />
+      <item value="copy Properties" />
+      <item value="domain Name" />
+      <item value="Knowledge" />
+      <item value="knowledge" />
+      <item value="Bi Predicate" />
+      <item value="get Parameter" />
+      <item value="has Query" />
+      <item value="Exporter" />
+      <item value="Server Endpoint" />
+      <item value="Server Endpoint Exporter" />
+      <item value="singleton List" />
+      <item value="operation Type" />
+      <item value="Linked Hash Map" />
+      <item value="Permission Data" />
+      <item value="Bkp Customer System" />
+      <item value="sys Login Model" />
+      <item value="set Records" />
+      <item value="String" />
+      <item value="Version" />
+      <item value="Api Model Property" />
+      <item value="注入Server Endpoint Exporter" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="65" />
+        <entry key="FRENCH" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1675060615495" />
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
+    <option name="keepFormat" value="true" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="012ddbfddb36503a" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
