@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Old Parent Node" />
       <item value="path freeze" />
       <item value="send Bus Template Announcement" />
       <item value="send Template Announcement" />
@@ -50,12 +51,11 @@
       <item value="Permission Data" />
       <item value="Bkp Customer System" />
       <item value="sys Login Model" />
-      <item value="set Records" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="70" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
