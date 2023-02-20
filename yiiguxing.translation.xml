@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Directory" />
+      <item value="ETL TABLE SINGLE TEST" />
       <item value="plugins Path" />
       <item value="update Old Parent Node" />
       <item value="path freeze" />
@@ -49,13 +51,11 @@
       <item value="singleton List" />
       <item value="operation Type" />
       <item value="Linked Hash Map" />
-      <item value="Permission Data" />
-      <item value="Bkp Customer System" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="73" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
