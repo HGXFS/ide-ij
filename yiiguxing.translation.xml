@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="find Directory" />
+      <item value="ETL TEST" />
       <item value="ETL TABLE SINGLE TEST" />
+      <item value="Execute Data Base Rep Tran" />
+      <item value="exec Repository Jobs" />
+      <item value="Progress Monitor Listener" />
+      <item value="Repository Directory Interface" />
+      <item value="load Transformation" />
+      <item value="find Directory" />
       <item value="plugins Path" />
       <item value="update Old Parent Node" />
       <item value="path freeze" />
@@ -45,17 +51,11 @@
       <item value="Bi Predicate" />
       <item value="get Parameter" />
       <item value="has Query" />
-      <item value="Exporter" />
-      <item value="Server Endpoint" />
-      <item value="Server Endpoint Exporter" />
-      <item value="singleton List" />
-      <item value="operation Type" />
-      <item value="Linked Hash Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="81" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
