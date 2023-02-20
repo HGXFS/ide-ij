@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trans Name" />
+      <item value="get Databases" />
+      <item value="Internal Future Failure Access" />
+      <item value="Repositories Meta" />
+      <item value="folder" />
+      <item value="Application Home" />
+      <item value="database Meta Name" />
+      <item value="search Repository" />
       <item value="ETL TEST" />
       <item value="ETL TABLE SINGLE TEST" />
       <item value="Execute Data Base Rep Tran" />
@@ -43,19 +51,11 @@
       <item value="bloc Clue" />
       <item value="proj" />
       <item value="company" />
-      <item value="person" />
-      <item value="copy Properties" />
-      <item value="domain Name" />
-      <item value="Knowledge" />
-      <item value="knowledge" />
-      <item value="Bi Predicate" />
-      <item value="get Parameter" />
-      <item value="has Query" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="91" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
