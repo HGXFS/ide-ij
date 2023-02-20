@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="db Access Type Code" />
+      <item value="db Access Type Desc" />
       <item value="trans Name" />
       <item value="get Databases" />
       <item value="Internal Future Failure Access" />
@@ -49,13 +51,11 @@
       <item value="Json Ignore Properties" />
       <item value="Equals And Hash Code" />
       <item value="bloc Clue" />
-      <item value="proj" />
-      <item value="company" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="93" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
