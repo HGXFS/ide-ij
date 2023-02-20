@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kettle Read Utils" />
       <item value="db Access Type Code" />
       <item value="db Access Type Desc" />
       <item value="trans Name" />
@@ -50,12 +51,11 @@
       <item value="Accessors" />
       <item value="Json Ignore Properties" />
       <item value="Equals And Hash Code" />
-      <item value="bloc Clue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="94" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1676453267878" />
+    <option name="lastTrimTime" value="1676885982437" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
