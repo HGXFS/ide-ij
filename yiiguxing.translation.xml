@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wait Until Finished" />
       <item value="environment Init" />
       <item value="Input Stream" />
       <item value="trans Meta" />
@@ -50,12 +51,11 @@
       <item value="ORDER TYPE ASC" />
       <item value="exclude Pointcut Web" />
       <item value="normal Pointcut Web" />
-      <item value="When compiling without debug info, or when interpreting pointcuts at runtime, the names of any arguments used in the pointcut are not available. Under these circumstances only, it is necessary to provide the arg names in the annotation - these MUST duplicate the names used in the annotated method. Format is a simple comma-separated list.&#10;返回值:&#10;argNames the argument names (should match those in the annotated method)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
