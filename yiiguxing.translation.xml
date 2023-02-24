@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Base Fragment Type" />
       <item value="scannotation" />
       <item value="pentaho" />
       <item value="browser" />
@@ -50,12 +51,11 @@
       <item value="bloc cleaning company qual" />
       <item value="bloc cleaning company person" />
       <item value="bloc cleaning company performance" />
-      <item value="bloc cleaning company credit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="111" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
