@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="init" />
+      <item value="environment Init" />
+      <item value="Load Kettle password encoder plugins" />
       <item value="PASSWORD ENCODER PLUGIN TYPE" />
       <item value="find Plugin With Id" />
       <item value="No Such Method Error" />
@@ -14,7 +17,6 @@
       <item value="browser" />
       <item value="scope" />
       <item value="wait Until Finished" />
-      <item value="environment Init" />
       <item value="Input Stream" />
       <item value="trans Meta" />
       <item value="execute" />
@@ -49,13 +51,11 @@
       <item value="send Template Announcement" />
       <item value="send Sys Announcement" />
       <item value="bloc spider project" />
-      <item value="bloc extractor project details" />
-      <item value="bloc extractor credit company score" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="121" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="ITALIAN" value="1" />
