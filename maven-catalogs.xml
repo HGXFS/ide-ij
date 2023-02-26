@@ -1,0 +1,12 @@
+<application>
+  <component name="MavenCatalogManager">
+    <option name="remote">
+      <list>
+        <Remote>
+          <option name="name" value="Pentaho Nexus" />
+          <option name="url" value="https://nexus.pentaho.org/content/groups/omni/" />
+        </Remote>
+      </list>
+    </option>
+  </component>
+</application>
