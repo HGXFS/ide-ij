@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jeecgframework" />
+      <item value="plugin Repository" />
       <item value="Component" />
       <item value="Accessors" />
       <item value="Base Fragment Type" />
@@ -49,14 +51,13 @@
       <item value="bloc extractor credit company" />
       <item value="bloc cleaning registered practitioner" />
       <item value="bloc cleaning not good behavior" />
-      <item value="bloc cleaning enterprise otherscore" />
-      <item value="bloc cleaning company qual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="115" />
         <entry key="FRENCH" value="1" />
+        <entry key="FINNISH" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="3" />
         <entry key="INDONESIAN" value="1" />
