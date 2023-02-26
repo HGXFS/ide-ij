@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="find Plugin With Id" />
       <item value="No Such Method Error" />
       <item value="jeecgframework" />
       <item value="plugin Repository" />
@@ -50,12 +51,11 @@
       <item value="bloc extractor project details" />
       <item value="bloc extractor credit company score" />
       <item value="bloc extractor credit company" />
-      <item value="bloc cleaning registered practitioner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="117" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="ITALIAN" value="1" />
