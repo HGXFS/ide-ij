@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nickname" />
+      <item value="send Get" />
       <item value="success" />
       <item value="failure" />
       <item value="runtime" />
@@ -49,13 +51,11 @@
       <item value="Trans Meta" />
       <item value="Kettle Read Utils" />
       <item value="db Access Type Code" />
-      <item value="db Access Type Desc" />
-      <item value="trans Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="146" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="ITALIAN" value="1" />
