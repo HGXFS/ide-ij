@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="min" />
+      <item value="Double" />
       <item value="Operating Record" />
       <item value="Operating Record Controller" />
       <item value="documentation Plugins Bootstrapper" />
@@ -49,13 +51,12 @@
       <item value="wait Until Finished" />
       <item value="Input Stream" />
       <item value="trans Meta" />
-      <item value="execute" />
-      <item value="Formula Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="153" />
+        <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="ITALIAN" value="1" />
