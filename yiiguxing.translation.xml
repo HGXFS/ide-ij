@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Description:&#10;&#10;Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.&#10;&#10;Reason: Failed to determine a suitable driver class&#10;&#10;&#10;Action:&#10;&#10;Consider the following:&#10;&#9;If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.&#10;&#9;If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
+      <item value="Configuration" />
+      <item value="Mapper Scan" />
+      <item value="tenant" />
+      <item value="Tenant Context" />
+      <item value="freemarker" />
+      <item value="配置freemarker" />
       <item value="artifact Id" />
       <item value="lookup parent from repository" />
       <item value="required" />
@@ -44,18 +51,11 @@
       <item value="Internal Future Failure Access" />
       <item value="Repositories Meta" />
       <item value="folder" />
-      <item value="Application Home" />
-      <item value="database Meta Name" />
-      <item value="search Repository" />
-      <item value="ETL TEST" />
-      <item value="ETL TABLE SINGLE TEST" />
-      <item value="Execute Data Base Rep Tran" />
-      <item value="exec Repository Jobs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="139" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="ITALIAN" value="1" />
