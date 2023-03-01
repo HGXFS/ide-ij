@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="platform" />
       <item value="bindgetuserinfo" />
       <item value="on Change Selected Env" />
       <item value="on Change Show Env Choose" />
@@ -50,12 +51,11 @@
       <item value="find Plugin With Id" />
       <item value="No Such Method Error" />
       <item value="jeecgframework" />
-      <item value="plugin Repository" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="162" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
