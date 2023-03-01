@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to get database metadata from this database connection" />
       <item value="send Activity" />
       <item value="Finished reading query, closing connection." />
       <item value="Class not found" />
@@ -50,12 +51,11 @@
       <item value="druid" />
       <item value="2023-02-27 10:38:33.649 ERROR 9916 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : &#10;&#10;&#10;APPLICATION FAILED TO START&#10;&#10;&#10;Description:&#10;&#10;Field testMapper in com.cestech.integral.controller.TestController required a bean of type 'com.cestech.integral.mapper.TestMapper' that could not be found.&#10;&#10;The injection point has the following annotations:&#10;&#9;- @org.springframework.beans.factory.annotation.Autowired(required=true)&#10;&#10;&#10;Action:&#10;&#10;Consider defining a bean of type 'com.cestech.integral.mapper.TestMapper' in your configuration.&#10;&#10;&#10;进程已结束,退出代码1" />
       <item value="locations" />
-      <item value="postgresql" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="174" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
