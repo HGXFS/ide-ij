@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finished reading query, closing connection." />
+      <item value="Class not found" />
+      <item value="An illegal reflective access operation has occurred" />
+      <item value="jsch" />
+      <item value="jcraft" />
       <item value="set Records" />
       <item value="set Choiceqst Content" />
       <item value="querying All Users" />
@@ -46,19 +51,15 @@
       <item value="locations" />
       <item value="postgresql" />
       <item value="Kettle Client Environment" />
-      <item value="register Plugin File" />
-      <item value="get Plugin Registry" />
-      <item value="An illegal reflective access operation has occurred" />
-      <item value="init" />
-      <item value="environment Init" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="172" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="ITALIAN" value="1" />
