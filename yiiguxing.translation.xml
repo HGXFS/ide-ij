@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initial Delay" />
+      <item value="fixed Rate" />
+      <item value="Enable Scheduling" />
       <item value="description" />
       <item value="notes" />
       <item value="Json Format" />
@@ -48,14 +51,11 @@
       <item value="Mapper Scan" />
       <item value="tenant" />
       <item value="Tenant Context" />
-      <item value="freemarker" />
-      <item value="配置freemarker" />
-      <item value="artifact Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="183" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
