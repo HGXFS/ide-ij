@@ -4,6 +4,7 @@
     <option name="relayoutOnNewElements" value="false" />
     <option name="categories">
       <map>
+        <entry id="Gradle" categories="显示路径: 根 -&gt; 选择" />
         <entry id="MAVEN" categories="显示冲突/重复项" />
       </map>
     </option>

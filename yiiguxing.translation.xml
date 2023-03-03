@@ -84,4 +84,23 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1677810382282" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="The transformation path" />
+      <item value="is invalid, and will not run successfully." />
+      <item value="found unknown escape character h(104) 2023-03-03T02:48:08.334689210Z in 'reader', line 350, column 11:" />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
+      <item value="ini 4 j" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
