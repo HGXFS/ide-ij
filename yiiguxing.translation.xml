@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Required request parameter 'id' for method parameter type String is not present" />
+      <item value="No error handling configured for" />
       <item value="Unexpected batch update error committing the database connection." />
       <item value="The transformation path" />
       <item value="is invalid, and will not run successfully." />
@@ -98,8 +100,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
