@@ -89,6 +89,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="fastjson" />
+      <item value="runtime" />
+      <item value="lombok" />
+      <item value="will not be managed by Spring" />
       <item value="Required request parameter 'id' for method parameter type String is not present" />
       <item value="No error handling configured for" />
       <item value="Unexpected batch update error committing the database connection." />
@@ -100,9 +104,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="CHINESE" value="10" />
+        <entry key="DANISH" value="1" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="INDONESIAN" value="2" />
       </map>
     </option>
   </component>
