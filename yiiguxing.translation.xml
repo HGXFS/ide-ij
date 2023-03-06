@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="图片上传" />
       <item value="off" />
       <item value="Profile" />
       <item value="cannot be opened because it does not exist" />
