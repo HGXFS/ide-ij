@@ -90,8 +90,9 @@
   <component name="Translation.States">
     <histories>
       <item value="cannot be opened because it does not exist" />
-      <item value="Profile" />
       <item value="Failed to process import candidates for configuration class" />
+      <item value="Contact" />
+      <item value="Profile" />
       <item value="paths" />
       <item value="implements" />
       <item value="build" />
@@ -117,9 +118,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
+        <entry key="CHINESE" value="27" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="28" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
