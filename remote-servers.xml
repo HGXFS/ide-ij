@@ -16,7 +16,7 @@
         </option>
       </configuration>
     </remote-server>
-    <remote-server name="Docker" type="docker">
+    <remote-server name="积分" type="docker">
       <configuration>
         <option name="apiUrl" value="http://127.0.0.1" />
         <option name="certificatesPath" />
