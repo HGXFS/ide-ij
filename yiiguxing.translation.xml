@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="public Knowledge" />
       <item value="Please consider reporting this to the maintainers of" />
       <item value="All illegal access operations will be denied in a future release" />
       <item value="An illegal reflective access operation has occurred" />
@@ -108,9 +109,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
+        <entry key="CHINESE" value="14" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
