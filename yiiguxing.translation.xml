@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ant path matcher" />
       <item value="credits" />
       <item value="Component" />
       <item value="(No such file or directory" />
@@ -130,9 +131,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
