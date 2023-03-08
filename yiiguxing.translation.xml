@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="swagger Resource" />
       <item value="REPLACE EXISTING" />
       <item value="Authorization" />
       <item value="description" />
@@ -139,9 +140,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
+        <entry key="CHINESE" value="44" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
