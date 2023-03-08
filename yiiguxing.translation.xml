@@ -95,6 +95,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="enable Multipart Support" />
+      <item value="enable Url Templating" />
+      <item value="required" />
+      <item value="consumes" />
       <item value="swagger Resource" />
       <item value="REPLACE EXISTING" />
       <item value="Authorization" />
@@ -140,9 +144,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
+        <entry key="CHINESE" value="49" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="50" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
