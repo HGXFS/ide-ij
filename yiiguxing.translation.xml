@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Profile" />
       <item value="Shiro" />
       <item value="Shiro Config" />
       <item value="shiro" />
@@ -105,7 +106,6 @@
       <item value="MULTIPART FORM DATA VALUE" />
       <item value="图片上传" />
       <item value="off" />
-      <item value="Profile" />
       <item value="cannot be opened because it does not exist" />
       <item value="Failed to process import candidates for configuration class" />
       <item value="Contact" />
@@ -134,9 +134,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
+        <entry key="CHINESE" value="38" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
