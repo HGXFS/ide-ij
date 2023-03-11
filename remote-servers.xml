@@ -24,5 +24,13 @@
         <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
       </configuration>
     </remote-server>
+    <remote-server name="巴科测试" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://127.0.0.1" />
+        <option name="certificatesPath" />
+        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="13d6a7bf-4baf-463f-8434-4aee31711200" />
+        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
