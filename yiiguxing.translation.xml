@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not find artifact" />
       <item value="fixed Delay" />
       <item value="Component" />
       <item value="Reflection Support" />
@@ -50,12 +51,11 @@
       <item value="Double" />
       <item value="Operating Record" />
       <item value="Operating Record Controller" />
-      <item value="documentation Plugins Bootstrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="197" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
