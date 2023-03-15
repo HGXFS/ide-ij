@@ -95,6 +95,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="this Month" />
+      <item value="DAY OF MONTH" />
+      <item value="本月" />
       <item value="to JSON String With Date Format" />
       <item value="parse Object" />
       <item value="global Request Parameters" />
@@ -142,15 +145,12 @@
       <item value="No error handling configured for" />
       <item value="Unexpected batch update error committing the database connection." />
       <item value="The transformation path" />
-      <item value="is invalid, and will not run successfully." />
-      <item value="found unknown escape character h(104) 2023-03-03T02:48:08.334689210Z in 'reader', line 350, column 11:" />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
+        <entry key="CHINESE" value="56" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="57" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
