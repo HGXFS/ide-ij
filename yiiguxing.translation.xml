@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="round robin" />
       <item value="INPUT" />
       <item value="ASSIGN ID" />
@@ -50,12 +51,11 @@
       <item value="on Change Show Env Choose" />
       <item value="Value Node" />
       <item value="sub" />
-      <item value="mul" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="209" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
