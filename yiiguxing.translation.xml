@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INPUT" />
+      <item value="ASSIGN ID" />
+      <item value="ASSIGN UUID" />
+      <item value="AUTO" />
+      <item value="NONE" />
       <item value="druid" />
       <item value="application" />
       <item value="Enable Scheduling" />
@@ -46,16 +51,11 @@
       <item value="sub" />
       <item value="mul" />
       <item value="unsigned Div Before" />
-      <item value="div Before" />
-      <item value="headimgurl" />
-      <item value="nickname" />
-      <item value="Insert" />
-      <item value="min" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="207" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
