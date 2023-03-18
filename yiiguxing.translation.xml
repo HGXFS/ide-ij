@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable Scheduling" />
       <item value="There are test failures.&#10;&#10;Please refer to D:\01Project\study\target\surefire-reports for the individual test results.&#10;Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream." />
       <item value="Druid Data Source Auto Configure" />
       <item value="masterDataSourceName: m0&#10;name: dataSource&#10;slaveDataSourceNames:&#10;- s0&#10;&#10;2023-03-18 10:46:30.370  INFO 1980 --- [           main] o.a.s.core.log.ConfigurationLogger       : Properties:&#10;{}&#10;" />
@@ -18,7 +19,6 @@
       <item value="NONE" />
       <item value="druid" />
       <item value="application" />
-      <item value="Enable Scheduling" />
       <item value="Lambda Query Chain Wrapper" />
       <item value="bad Request" />
       <item value="Could not find artifact" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="218" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
