@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Serializer Provider" />
       <item value="MAIL" />
       <item value="Enable Scheduling" />
       <item value="There are test failures.&#10;&#10;Please refer to D:\01Project\study\target\surefire-reports for the individual test results.&#10;Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream." />
@@ -50,12 +51,11 @@
       <item value="jsch" />
       <item value="jcraft" />
       <item value="set Records" />
-      <item value="set Choiceqst Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="220" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
