@@ -2,4 +2,9 @@
   <component name="DependencyUISettings">
     <option name="UI_FILTER_OUT_OF_CYCLE_PACKAGES" value="false" />
   </component>
+  <component name="UISettings">
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
+  </component>
 </application>
