@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="like Left" />
+      <item value="like" />
+      <item value="decrypt" />
+      <item value="Result Set" />
+      <item value="able Result" />
+      <item value="get Nullable Result" />
+      <item value="Callable Statement" />
+      <item value="method" />
       <item value="annotation Type" />
       <item value="implements" />
       <item value="Serializer Provider" />
@@ -43,19 +51,11 @@
       <item value="notes" />
       <item value="Json Format" />
       <item value="Date Time Format" />
-      <item value="was not registered for synchronization because synchronization is not active" />
-      <item value="check User Is Effective" />
-      <item value="Unable to get database metadata from this database connection" />
-      <item value="send Activity" />
-      <item value="Finished reading query, closing connection." />
-      <item value="Class not found" />
-      <item value="An illegal reflective access operation has occurred" />
-      <item value="jsch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="232" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
