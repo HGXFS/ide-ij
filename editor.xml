@@ -15,7 +15,4 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseEndOfLineComments" value="true" />
   </component>
-  <component name="SqlFoldingSettings">
-    <option name="COLLAPSE_LONG_NUMBERS" value="true" />
-  </component>
 </application>
