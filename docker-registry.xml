@@ -3,16 +3,6 @@
     <DockerRegistry>
       <option name="address" value="registry.hub.docker.com" />
       <option name="name" value="Docker 注册表" />
-      <option name="username" value="HGXDS" />
-    </DockerRegistry>
-    <DockerRegistry>
-      <option name="address" value="registry.hub.docker.com" />
-      <option name="name" value="Docker 注册表2" />
-      <option name="username" value="HGXDS" />
-    </DockerRegistry>
-    <DockerRegistry>
-      <option name="address" value="registry.hub.docker.com" />
-      <option name="name" value="Docker 注册表3" />
       <option name="username" value="hgxds" />
     </DockerRegistry>
   </component>
