@@ -40,5 +40,21 @@
         <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
       </configuration>
     </remote-server>
+    <remote-server name="宣教云单端版" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://127.0.0.1" />
+        <option name="certificatesPath" />
+        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="90eaec45-b761-4378-9098-76798ddb0e1f" />
+        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="F:\Linux" />
+              <option name="virtualMachinePath" value="/home/ubuntu" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
   </component>
 </application>
