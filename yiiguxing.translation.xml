@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679280741411" />
+    <option name="lastTrimTime" value="1679713975541" />
   </component>
   <component name="Translation.Settings">
     <option name="autoReplace" value="true" />
@@ -96,6 +96,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value=": Couldn't acquire next trigger: Table 'ms.QRTZ_TRIGGERS' doesn't exist" />
       <item value="summing Int" />
       <item value="global Request Parameters" />
@@ -145,13 +146,12 @@
       <item value="The transformation path" />
       <item value="is invalid, and will not run successfully." />
       <item value="found unknown escape character h(104) 2023-03-03T02:48:08.334689210Z in 'reader', line 350, column 11:" />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
+        <entry key="CHINESE" value="55" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
