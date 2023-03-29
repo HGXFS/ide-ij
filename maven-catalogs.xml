@@ -4,16 +4,8 @@
       <list>
         <Local>
           <option name="name" value="repository" />
-          <option name="path" value="$MAVEN_REPOSITORY$" />
+          <option name="path" value="F:/Users/jiangjun/.m2/repository" />
         </Local>
-      </list>
-    </option>
-    <option name="remote">
-      <list>
-        <Remote>
-          <option name="name" value="Pentaho Nexus" />
-          <option name="url" value="https://nexus.pentaho.org/content/groups/omni/" />
-        </Remote>
       </list>
     </option>
   </component>
