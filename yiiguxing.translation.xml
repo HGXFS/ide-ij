@@ -96,6 +96,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="openkosmos" />
       <item value="parent" />
       <item value="Could not transfer artifact" />
@@ -106,7 +107,6 @@
       <item value="s failed in-progress jobs." />
       <item value="will not be managed by Spring" />
       <item value="on field 'startDate': rejected value" />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value=": Couldn't acquire next trigger: Table 'ms.QRTZ_TRIGGERS' doesn't exist" />
       <item value="summing Int" />
       <item value="global Request Parameters" />
@@ -149,9 +149,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
+        <entry key="CHINESE" value="67" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
