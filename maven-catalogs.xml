@@ -1,5 +1,13 @@
 <application>
   <component name="MavenCatalogManager">
+    <option name="local">
+      <list>
+        <Local>
+          <option name="name" value="repository" />
+          <option name="path" value="$MAVEN_REPOSITORY$" />
+        </Local>
+      </list>
+    </option>
     <option name="remote">
       <list>
         <Remote>
