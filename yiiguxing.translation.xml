@@ -96,6 +96,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Could not transfer artifact" />
       <item value="parent" />
       <item value="Unsatisfied dependency expressed through field 'runtimeService'; nested exception is" />
       <item value="HikariPool-1 - Connection is not available, request timed out after 5022ms." />
@@ -145,13 +146,12 @@
       <item value="An illegal reflective access operation has occurred" />
       <item value="to field" />
       <item value="fastjson" />
-      <item value="runtime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
+        <entry key="CHINESE" value="64" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
