@@ -96,6 +96,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Read timed out" />
+      <item value="Could not open JPA EntityManager for transaction; nested exception is" />
+      <item value="No operations allowed after connection closed." />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="openkosmos" />
@@ -103,7 +106,6 @@
       <item value="Could not transfer artifact" />
       <item value="Unsatisfied dependency expressed through field 'runtimeService'; nested exception is" />
       <item value="HikariPool-1 - Connection is not available, request timed out after 5022ms." />
-      <item value="No operations allowed after connection closed." />
       <item value="jackson" />
       <item value="s failed in-progress jobs." />
       <item value="will not be managed by Spring" />
@@ -144,14 +146,12 @@
       <item value="Starting Quartz Scheduler now, after delay of 1 seconds" />
       <item value="public Knowledge" />
       <item value="Please consider reporting this to the maintainers of" />
-      <item value="All illegal access operations will be denied in a future release" />
-      <item value="An illegal reflective access operation has occurred" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
+        <entry key="CHINESE" value="71" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="72" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
