@@ -96,6 +96,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Communications link failure" />
       <item value="Read timed out" />
       <item value="Could not open JPA EntityManager for transaction; nested exception is" />
       <item value="No operations allowed after connection closed." />
@@ -145,13 +146,12 @@
       <item value="&amp;amp" />
       <item value="Starting Quartz Scheduler now, after delay of 1 seconds" />
       <item value="public Knowledge" />
-      <item value="Please consider reporting this to the maintainers of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="72" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
