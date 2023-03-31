@@ -97,6 +97,10 @@
   <component name="Translation.States">
     <histories>
       <item value="could not extract ResultSet" />
+      <item value="The user specified as a definer ('root'@'%') does not exist" />
+      <item value="The user specified as a definer" />
+      <item value="could not extract ResultSet; nested exception is" />
+      <item value="could not extract ResultSet;" />
       <item value="could not extract ResultSet; nested exception is org.hibernate.exception.GenericJDBCException: could not extract ResultSet" />
       <item value="growth Contract Number" />
       <item value="replace" />
@@ -142,16 +146,12 @@
       <item value="图片上传" />
       <item value="off" />
       <item value="cannot be opened because it does not exist" />
-      <item value="Failed to process import candidates for configuration class" />
-      <item value="Contact" />
-      <item value="paths" />
-      <item value="implements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
+        <entry key="CHINESE" value="83" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="ENGLISH" value="84" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
