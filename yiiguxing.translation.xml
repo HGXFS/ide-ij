@@ -96,6 +96,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="View 'electric.v_internal_material_list' references invalid table(s) or column(s) or function(s) or definerinvoker of view lack rights to use them" />
       <item value="could not extract ResultSet" />
       <item value="The user specified as a definer ('root'@'%') does not exist" />
       <item value="The user specified as a definer" />
@@ -145,13 +146,12 @@
       <item value="MULTIPART FORM DATA VALUE" />
       <item value="图片上传" />
       <item value="off" />
-      <item value="cannot be opened because it does not exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
+        <entry key="CHINESE" value="84" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
