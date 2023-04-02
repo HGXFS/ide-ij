@@ -96,6 +96,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="method" />
       <item value="Contract" />
       <item value="Data source rejected establishment of connection, message from server: &quot;Too many connections&quot;" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
@@ -145,13 +146,12 @@
       <item value="Starting Quartz Scheduler now, after delay of 1 seconds" />
       <item value="public Knowledge" />
       <item value="Please consider reporting this to the maintainers of" />
-      <item value="All illegal access operations will be denied in a future release" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="70" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
