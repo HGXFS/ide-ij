@@ -50,9 +50,13 @@
           <option name="url" value="https://e.coding.net/jiudingyunfan/qianyihou/MissionCloud_SingleEnded.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://e.coding.net/jiudingyunfan/gaochenjianzhu/manage-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\" />
+    <option name="cloneParentDir" value="F:\gaochen" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
