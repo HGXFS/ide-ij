@@ -96,6 +96,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Custom Long Invocation Handler" />
       <item value="method" />
       <item value="Contract" />
       <item value="Data source rejected establishment of connection, message from server: &quot;Too many connections&quot;" />
@@ -145,13 +146,12 @@
       <item value="&amp;amp" />
       <item value="Starting Quartz Scheduler now, after delay of 1 seconds" />
       <item value="public Knowledge" />
-      <item value="Please consider reporting this to the maintainers of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
+        <entry key="CHINESE" value="71" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
