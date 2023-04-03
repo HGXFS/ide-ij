@@ -96,8 +96,11 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="restart" />
+      <item value="MYSQL ROOT HOST" />
       <item value="MYSQL ROOT PASSWORD" />
+      <item value="command" />
+      <item value="environment" />
+      <item value="restart" />
       <item value="image" />
       <item value="lower case table names" />
       <item value="View 'electric.v_internal_material_list' references invalid table(s) or column(s) or function(s) or definerinvoker of view lack rights to use them" />
@@ -143,15 +146,12 @@
       <item value="Shiro" />
       <item value="Shiro Config" />
       <item value="shiro" />
-      <item value="ant path matcher" />
-      <item value="credits" />
-      <item value="Component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
+        <entry key="CHINESE" value="94" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="ENGLISH" value="95" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
