@@ -1,4 +1,7 @@
 <application>
+  <component name="ComposeFilesSynchronizedWithServiceView">
+    <option value="file://F:/MissionCloud_SingleEnded/docker-compose-server.yml" />
+  </component>
   <component name="DockerSettings">
     <option name="dockerComposePath" value="docker-compose.exe" />
     <option name="dockerMachinePath" value="" />
