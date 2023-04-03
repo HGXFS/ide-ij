@@ -96,6 +96,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="restart" />
+      <item value="MYSQL ROOT PASSWORD" />
+      <item value="image" />
+      <item value="lower case table names" />
       <item value="View 'electric.v_internal_material_list' references invalid table(s) or column(s) or function(s) or definerinvoker of view lack rights to use them" />
       <item value="could not extract ResultSet" />
       <item value="The user specified as a definer ('root'@'%') does not exist" />
@@ -142,16 +146,12 @@
       <item value="ant path matcher" />
       <item value="credits" />
       <item value="Component" />
-      <item value="(No such file or directory" />
-      <item value="MULTIPART FORM DATA VALUE" />
-      <item value="图片上传" />
-      <item value="off" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
+        <entry key="CHINESE" value="88" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="ENGLISH" value="89" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
