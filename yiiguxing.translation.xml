@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1679975522637" />
+    <option name="lastTrimTime" value="1679024363166" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
@@ -85,28 +85,52 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681109862364" />
+    <option name="lastTrimTime" value="1681093004535" />
   </component>
   <component name="Translation.Settings">
     <option name="autoReplace" value="true" />
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showReplacementActionInContextMenu" value="true" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Custom Long Invocation Handler" />
-      <item value="method" />
-      <item value="Contract" />
-      <item value="Data source rejected establishment of connection, message from server: &quot;Too many connections&quot;" />
+      <item value="Identify and stop the process that's listening on port 8085 or configure this application to listen on another port." />
+      <item value="bkb public education knowledge" />
+      <item value="You should consider upgrading via the 'usrlocalbinpython -m pip install --upgrade pip' command." />
+      <item value="Directory 'home' is not installable. Neither 'setup.py' nor 'pyproject.toml' found." />
+      <item value="Collecting pyyaml" />
+      <item value="container name" />
+      <item value="PRIMARY" />
+      <item value="sleep: missing operand 2023-04-03T09:27:25.686173635Z Try 'sleep --help' for more information." />
+      <item value="sleep: missing operand 2023-04-03T09:26:34.167127661Z Try 'sleep --help' for more information." />
+      <item value="environment" />
+      <item value="MYSQL ROOT HOST" />
+      <item value="MYSQL ROOT PASSWORD" />
+      <item value="command" />
+      <item value="restart" />
+      <item value="image" />
+      <item value="lower case table names" />
+      <item value="View 'electric.v_internal_material_list' references invalid table(s) or column(s) or function(s) or definerinvoker of view lack rights to use them" />
+      <item value="could not extract ResultSet" />
+      <item value="The user specified as a definer ('root'@'%') does not exist" />
+      <item value="The user specified as a definer" />
+      <item value="could not extract ResultSet; nested exception is" />
+      <item value="could not extract ResultSet;" />
+      <item value="could not extract ResultSet; nested exception is org.hibernate.exception.GenericJDBCException: could not extract ResultSet" />
+      <item value="growth Contract Number" />
+      <item value="replace" />
+      <item value="Communications link failure" />
+      <item value="Read timed out" />
+      <item value="Could not open JPA EntityManager for transaction; nested exception is" />
+      <item value="No operations allowed after connection closed." />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="openkosmos" />
       <item value="parent" />
       <item value="Could not transfer artifact" />
       <item value="Unsatisfied dependency expressed through field 'runtimeService'; nested exception is" />
       <item value="HikariPool-1 - Connection is not available, request timed out after 5022ms." />
-      <item value="No operations allowed after connection closed." />
       <item value="jackson" />
       <item value="s failed in-progress jobs." />
       <item value="will not be managed by Spring" />
@@ -121,37 +145,12 @@
       <item value="required" />
       <item value="consumes" />
       <item value="swagger Resource" />
-      <item value="REPLACE EXISTING" />
-      <item value="Authorization" />
-      <item value="description" />
-      <item value="scope" />
-      <item value="Authorization Scope" />
-      <item value="Profile" />
-      <item value="Shiro" />
-      <item value="Shiro Config" />
-      <item value="shiro" />
-      <item value="ant path matcher" />
-      <item value="credits" />
-      <item value="Component" />
-      <item value="(No such file or directory" />
-      <item value="MULTIPART FORM DATA VALUE" />
-      <item value="图片上传" />
-      <item value="off" />
-      <item value="cannot be opened because it does not exist" />
-      <item value="Failed to process import candidates for configuration class" />
-      <item value="Contact" />
-      <item value="paths" />
-      <item value="implements" />
-      <item value="build" />
-      <item value="&amp;amp" />
-      <item value="Starting Quartz Scheduler now, after delay of 1 seconds" />
-      <item value="public Knowledge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="104" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="ENGLISH" value="105" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
