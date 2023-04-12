@@ -95,6 +95,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value=": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key,value FROM knowledge WHERE (key = 1)' at line 1" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key,value FROM knowledge" />
       <item value="Identify and stop the process that's listening on port 8085 or configure this application to listen on another port." />
       <item value="bkb public education knowledge" />
       <item value="You should consider upgrading via the 'usrlocalbinpython -m pip install --upgrade pip' command." />
@@ -143,14 +145,12 @@
       <item value="enable Multipart Support" />
       <item value="enable Url Templating" />
       <item value="required" />
-      <item value="consumes" />
-      <item value="swagger Resource" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
+        <entry key="CHINESE" value="106" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="ENGLISH" value="107" />
         <entry key="INDONESIAN" value="2" />
       </map>
     </option>
