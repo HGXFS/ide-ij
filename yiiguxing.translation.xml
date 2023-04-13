@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Unsatisfied dependency expressed through field 'service'; nested exception is" />
       <item value=": You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key,value FROM knowledge WHERE (key = 1)' at line 1" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key,value FROM knowledge" />
       <item value="Identify and stop the process that's listening on port 8085 or configure this application to listen on another port." />
@@ -144,7 +145,6 @@
       <item value="direct Model Substitute" />
       <item value="enable Multipart Support" />
       <item value="enable Url Templating" />
-      <item value="required" />
     </histories>
     <option name="languageScores">
       <map>
