@@ -6,6 +6,7 @@
       <sshConfig authType="PASSWORD" host="192.168.100.203" id="13d6a7bf-4baf-463f-8434-4aee31711200" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="118.24.4.161" id="1129bbe4-2e99-4cd9-859a-e637fc5d8a15" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="139.155.36.156" id="90eaec45-b761-4378-9098-76798ddb0e1f" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="192.168.100.205" id="2d0d27aa-08c4-4e93-a05d-de4b99737ff0" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="false" />
     </configs>
   </component>
 </application>

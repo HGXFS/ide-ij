@@ -3,7 +3,7 @@
     <option value="file://F:/MissionCloud_SingleEnded/docker-compose-server.yml" />
   </component>
   <component name="DockerSettings">
-    <option name="dockerComposePath" value="docker-compose.exe" />
+    <option name="dockerComposePath" value="F:\Docker\docker-compose.exe" />
     <option name="dockerMachinePath" value="" />
     <option name="dockerPath" value="docker.exe" />
   </component>

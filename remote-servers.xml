@@ -56,5 +56,13 @@
         </option>
       </configuration>
     </remote-server>
+    <remote-server name="205工时" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://127.0.0.1" />
+        <option name="certificatesPath" />
+        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="2d0d27aa-08c4-4e93-a05d-de4b99737ff0" />
+        <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
