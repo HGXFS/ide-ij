@@ -60,7 +60,7 @@
       <configuration>
         <option name="apiUrl" value="http://127.0.0.1" />
         <option name="certificatesPath" />
-        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="2d0d27aa-08c4-4e93-a05d-de4b99737ff0" />
+        <entry contributedKey="DockerSshConnectionConfigurator.SshConfigId" value="b754cc5c-e779-43e4-bd03-1b48b9ca34d9" />
         <option name="customConfiguratorId" value="DockerSshConnectionConfigurator" />
       </configuration>
     </remote-server>
