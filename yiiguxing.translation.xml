@@ -85,13 +85,14 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681713692030" />
+    <option name="lastTrimTime" value="1682229617224" />
   </component>
   <component name="Translation.Settings">
     <option name="autoReplace" value="true" />
     <option name="primaryLanguage" value="CHINESE" />
     <option name="showReplacementActionInContextMenu" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
